@@ -1,0 +1,14 @@
+graph TD
+    A[Designer Uploads Asset] --> B{AI Ingestion Pipeline}
+    B --> C[Vision Transformer: Visual Tags]
+    B --> D[LLM: Contextual Metadata]
+    B --> E[Vectorization Engine]
+    
+    C --> F[(Vector Database)]
+    D --> F
+    E --> F
+    
+    G[User Query: 'Blue Minimalist UI'] --> H[Search Engine]
+    H --> I[Similarity Search in Vector DB]
+    I --> J[Ranked Visual Results]
+    J --> K[Designer Downloads/Reuses Asset]
