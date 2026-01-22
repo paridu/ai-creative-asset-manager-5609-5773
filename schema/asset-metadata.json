@@ -1,0 +1,24 @@
+{
+  "asset_id": "uuid-v4-string",
+  "original_filename": "final_final_v3.fig",
+  "ai_generated_name": "Modern_Ecommerce_Landing_Page_Blue",
+  "dimensions": {
+    "width": 1920,
+    "height": 1080,
+    "unit": "px"
+  },
+  "visual_fingerprint": {
+    "dominant_colors": ["#0055FF", "#FFFFFF", "#222222"],
+    "style": ["Minimalist", "Corporate", "High-Contrast"],
+    "detected_objects": ["Button", "Navigation Bar", "Hero Image", "User Avatar"]
+  },
+  "semantic_tags": [
+    "fintech",
+    "dashboard",
+    "clean typography",
+    "dark mode"
+  ],
+  "vector_embedding_id": "vec-9982341",
+  "reusability_score": 0.85,
+  "last_accessed": "2023-10-27T10:00:00Z"
+}
